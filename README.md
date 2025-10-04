@@ -59,7 +59,3 @@ The dataset consists of **healthcare claims data** with the following fields:
 
 ---
 
-## 🔧 How to Run  
-1. Clone the repository:  
-```bash
-git clone <repository-url>
